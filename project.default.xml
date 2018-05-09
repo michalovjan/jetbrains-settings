@@ -1,0 +1,73 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.3" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="HaskellBuildOptions">
+        <ghcPath>/usr/bin/ghc</ghcPath>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ArquillianSettingsConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
